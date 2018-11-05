@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img1</folder>
+	<filename>13C5A1180825110260860294_0x0_0x5.jpg</filename>
+	<path>C:/Users/ZhuangLinlin/Desktop/img1\13C5A1180825110260860294_0x0_0x5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>574</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yinlie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>320</ymin>
+			<xmax>74</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
