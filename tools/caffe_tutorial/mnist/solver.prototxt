@@ -1,0 +1,16 @@
+train_net: "C:/Users/an/Documents/study/caffe_tutorial/caffe_tutorial/mnist/train.prototxt"
+test_net: "C:/Users/an/Documents/study/caffe_tutorial/caffe_tutorial/mnist/test.prototxt"
+test_iter: 100
+test_interval: 938
+base_lr: 0.01
+display: 20
+max_iter: 9380
+lr_policy: "step"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+stepsize: 3000
+snapshot: 2000
+snapshot_prefix: "C:/Users/an/Documents/study/caffe_tutorial/caffe_tutorial/mnist/lenet"
+solver_mode: GPU
+type: "SGD"
